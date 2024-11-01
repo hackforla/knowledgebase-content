@@ -10,7 +10,7 @@ assignees: ''
 ---
 
 ### Overview
-We need to create a guide to using size labels so teams can accurately assess how long tasks should take to complete.
+We need to create a guide to using [NAME OF THING] so [NAME OF REASON]
 
 ### Action Items
 The phases in the guide-making process are listed below. Each phase displayed in blue is linked to a wiki page with instructions on how to complete that phase. Open the wiki page in a new tab, copy the instructions for each part into the section labelled 'Tasks' at the bottom of this issue, and complete each task listed.
